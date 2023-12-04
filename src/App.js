@@ -1,26 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
-import Navbar from './components/Navbar';
-import NewsItem from './components/NewsItem';
+import logo from "./logo.svg";
+import "./App.css";
+import Navbar from "./components/Navbar";
+import NewsItem from "./components/NewsItem";
+import About from "./components/About";
+import Home from "./components/Home";
+import News from "./components/News";
+import {
+  createBrowserRouter,
+  BrowserRouter as Router,
+  Route,
+  Routes,
+  RouterProvider,
+} from "react-router-dom";
 
 function App() {
   return (
     <>
-    <Navbar/>
-    <div className="container my-3" >
-    <div className="row">
-      <div className="col-md-4">
-      <NewsItem des="This is des" title="News1"/>
-      </div>
-      <div className="col-md-4">
-      <NewsItem des="This is des" title="News2"/>
-      </div>
-      <div className="col-md-4">
-      <NewsItem des="This is des" title="News3"/>
-      </div>
-    </div>
-    </div>
-    
+      <Navbar />
+      <Router>
+        <Routes>
+          <Route path="/about" element={<About />}></Route>
+          <Route path="/" element={<Home />}>
+            {" "}
+          </Route>
+
+          <Route path="news" element={<News link="https" />}></Route>
+        </Routes>
+      </Router>
     </>
   );
 }

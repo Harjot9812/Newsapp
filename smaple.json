@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Nick Timiraos",
+    "title": "Fed's Interest Rate Hikes Are Probably Over, but Officials Are Reluctant to Say So - The Wall Street Journal",
+    "description": "Chair Jerome Powell warns against prematurely declaring victory on inflation",
+    "url": "https://www.wsj.com/economy/central-banking/fed-interest-rate-hikes-b19c2ab2",
+    "urlToImage": "https://images.wsj.net/im-894067/social",
+    "publishedAt": "2023-12-01T16:00:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Hamza Shaban",
+    "title": "Stock market news today: Stocks wobble with Fed's Powell on deck - Yahoo Finance",
+    "description": "Investors are looking to Fed Chair Jerome Powell to potentially shed light on whether an interest rate cut lies ahead.",
+    "url": "https://finance.yahoo.com/news/stock-market-news-today-stocks-find-footing-as-powell-chills-rate-cut-hopes-123016504.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/n11irqwuxGGsWzCT4Wq.VA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/432093b0-903c-11ee-bf7b-b9222bbd2d41",
+    "publishedAt": "2023-12-01T15:43:53Z",
+    "content": "US stocks took a breather on Friday after wrapping up a stellar month, as investors began to digest remarks from Federal Reserve Chair Jerome Powell who warned that it would \"premature to conclude th… [+4252 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": "financial-times",
+    "name": "Financial Times"
+    },
+    "author": "Hannah Murphy, Daniel Thomas",
+    "title": "X ramps up new advertising strategy following Elon Musk's tirade - Financial Times",
+    "description": "Social media site accelerates plan to attract small businesses as billionaire owner battles big brands",
+    "url": "https://www.ft.com/content/cdf789a2-8872-41fe-94e7-ff30ebe631b7",
+    "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fdd2bacd7-86cd-4820-bb7a-0c2479bc2745.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+    "publishedAt": "2023-12-01T15:09:18Z",
+    "content": "X is racing to attract smaller and medium-sized businesses to prop up its flailing advertising business, following Elon Musks profanity-strewn attack on the big brands that are boycotting his social … [+3422 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "CDC recalls cantaloupe amid deadly salmonella outbreak - TODAY",
+    "description": "The CDC has issued a recall of pre-cut cantaloupe sold at Kroger, Trader Joe’s, and Sprouts Farmers Market amid a salmonella outbreak that has been linked to...",
+    "url": "https://www.youtube.com/watch?v=TKOq-rt_sPQ",
+    "urlToImage": "https://i.ytimg.com/vi/TKOq-rt_sPQ/maxresdefault.jpg",
+    "publishedAt": "2023-12-01T14:45:01Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Tanaya Macheel",
+    "title": "Bitcoin finishes November strong as investors enter a waiting period in the final month of 2023 - CNBC",
+    "description": "November was perhaps the most significant month of this year for the crypto industry and gave bitcoin a strong setup as investors look toward 2024.",
+    "url": "https://www.cnbc.com/2023/12/01/bitcoin-finishes-november-strong-as-investors-enter-a-waiting-period-in-the-final-month-of-2023-.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106914436-1626882689324-gettyimages-1233884537-sindeyev-notitle210708_npcJA.jpeg?v=1701442071&w=1920&h=1080",
+    "publishedAt": "2023-12-01T14:29:30Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Amelia Lucas",
+    "title": "Panera Bread reportedly files to go public again through IPO - CNBC",
+    "description": "JAB Holding took Panera Bread private in 2017 for $7.5 billion.",
+    "url": "https://www.cnbc.com/2023/12/01/panera-bread-ipo-filing.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107327402-1698880056113-gettyimages-1769303468-dsc03493_cutdnpj2.jpeg?v=1701441332&w=1920&h=1080",
+    "publishedAt": "2023-12-01T14:27:57Z",
+    "content": "Panera Bread has confidentially filed to go public again, the Financial Times reported.\r\nThe restaurant chain, known for its soups, sandwiches and bagels, has been signaling for months that it's look… [+1839 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Samrhitha A, Chavi Mehta",
+    "title": "Tesla falls on long wait for Cybertruck payoff, hefty price tag - Reuters",
+    "description": "Tesla shares <a href=\"https://www.reuters.com/markets/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> fell about 2% on Friday after the highly anticipated launch of its Cybertruck left analysts concerned about the electric vehicle's steep price tag and a longe…",
+    "url": "https://www.reuters.com/business/autos-transportation/tesla-falls-long-wait-cybertruck-payoff-hefty-price-tag-2023-12-01/",
+    "urlToImage": "https://www.reuters.com/resizer/rAQecYI3Mba0FIjpP9kRqd5H0q8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RTAIDTHH3JLG3MAMUA6Q7VVHLY.jpg",
+    "publishedAt": "2023-12-01T14:27:00Z",
+    "content": "Dec 1 (Reuters) - Tesla shares (TSLA.O) fell about 2% on Friday after the highly anticipated launch of its Cybertruck left analysts concerned about the electric vehicle's steep price tag and a longer… [+2155 chars]"
+    },
+    {
+    "source": {
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": "Rita Nazareth",
+    "title": "Stock Market Today: Dow, S&P Live Updates for December 1 - Bloomberg",
+    "description": "Treasuries and stocks pushed higher, with the market boosting bets on rate cuts next year after Jerome Powell signaled the Federal Reserve will possibly stay put this month — even as he retained the option to hike further.",
+    "url": "https://www.bloomberg.com/news/articles/2023-11-30/stock-market-today-dow-s-p-live-updates",
+    "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFI6sH0IvXXE/v0/1200x800.jpg",
+    "publishedAt": "2023-12-01T14:26:15Z",
+    "content": "Treasuries and stocks pushed higher, with the market boosting bets on rate cuts next year after Jerome Powell signaled the Federal Reserve will possibly stay put this month even as he retained the op… [+494 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Barron's"
+    },
+    "author": "Jack Denton",
+    "title": "Alibaba Stock Is Falling. It Lost Its Crown to Temu and Analysts Are Turning Sour. - Barron's",
+    "description": "PDD, the owner of Pinduoduo and Temu, surpasses Alibaba as the most valuable Chinese e-commerce company.",
+    "url": "https://www.barrons.com/articles/alibaba-stock-temu-pdd-analysts-cc378b1d",
+    "urlToImage": "https://images.barrons.com/im-803043/social",
+    "publishedAt": "2023-12-01T14:25:00Z",
+    "content": "Dec 01, 2023, 9:25 am EST"
+    },
+    {
+    "source": {
+    "id": "financial-times",
+    "name": "Financial Times"
+    },
+    "author": null,
+    "title": "Pfizer drops plan for twice-daily obesity pill due to side effects - Financial Times",
+    "description": "Decision is setback for US drugmaker looking to increase sales after pandemic",
+    "url": "https://www.ft.com/content/510f64c0-75d6-4d69-b59a-a8d196a29a7e",
+    "urlToImage": null,
+    "publishedAt": "2023-12-01T13:51:20Z",
+    "content": "We use\r\ncookies\r\nand other data for a number of reasons, such as keeping FT Sites reliable and secure,\r\npersonalising content and ads, providing social media features and to\r\nanalyse how our Sites ar… [+6 chars]"
+    },
+    {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": null,
+    "title": "Biden's latest China crackdown puts his EV ambitions at risk - POLITICO",
+    "description": "The new rules could reduce the number of electric cars that qualify for federal subsidies.",
+    "url": "https://www.politico.com/news/2023/12/01/biden-china-crackdown-ev-00129475",
+    "urlToImage": "https://static.politico.com/ad/76/06a128be450abbbc983cd99f1c87/https-delivery-gettyimages.com/downloads/1243225090",
+    "publishedAt": "2023-12-01T13:45:00Z",
+    "content": "It comes months after an earlier Treasury rule on domestic manufacturing locked out many vehicles from European, Japanese and South Korean automakers from receiving the tax credit. Around 22 electric… [+9986 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": null,
+    "title": "UiPath Inc. (NYSE:PATH) Q3 2024 Earnings Call Transcript - Yahoo Finance",
+    "description": null,
+    "url": "https://finance.yahoo.com/news/uipath-inc-nyse-path-q3-134230270.html",
+    "urlToImage": null,
+    "publishedAt": "2023-12-01T13:42:30Z",
+    "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 239 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Brian Evans",
+    "title": "Stocks making biggest moves premarket: PFE, DIS, TSLA, BABA and more - CNBC",
+    "description": "These are the stocks posting the largest moves in premarket trading.",
+    "url": "https://www.cnbc.com/2023/12/01/stocks-making-the-biggest-moves-premarket-pfe-dis-tsla-baba-and-more.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107261576-1687527105423-gettyimages-1246630917-Illustration_Pfizer_Inc.jpeg?v=1687527516&w=1920&h=1080",
+    "publishedAt": "2023-12-01T13:06:06Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Investor's Business Daily"
+    },
+    "author": "Investor's Business Daily",
+    "title": "December Looks Great For Investors Who Own 9 Stocks - Investor's Business Daily",
+    "description": null,
+    "url": "https://www.investors.com/etfs-and-funds/sectors/sp500-december-looks-great-for-investors-who-own-stocks/",
+    "urlToImage": null,
+    "publishedAt": "2023-12-01T13:00:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Investor's Business Daily"
+    },
+    "author": "Investor's Business Daily",
+    "title": "Dow Jones Futures Rise; Tesla Falls On Cybertruck Details But These Techs Soar - Investor's Business Daily",
+    "description": null,
+    "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-rise-tesla-falls-on-cybertruck-details/",
+    "urlToImage": null,
+    "publishedAt": "2023-12-01T12:42:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Anna Cooban, Elisabeth Buchwald",
+    "title": "OPEC+ members agree to significant voluntary oil production cuts - CNN",
+    "description": "Several OPEC+ countries agreed to voluntarily cut oil production by 2.2 million barrels per day in the first quarter of 2024, the group announced Thursday.",
+    "url": "https://www.cnn.com/2023/11/30/energy/saudi-arabia-extend-production-cut-opec/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230402112718-saudi-arabia-oil-production-file.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-12-01T12:41:00Z",
+    "content": "Several OPEC+ countries agreed to voluntarily cut oil production by a total of 2.2 million barrels per day in the first quarter of 2024, the oil producing group announced Thursday.\r\nSaudi Arabia, the… [+2447 chars]"
+    },
+    {
+    "source": {
+    "id": "axios",
+    "name": "Axios"
+    },
+    "author": "Axios",
+    "title": "The richer you are the more money you need to be happy - Axios",
+    "description": null,
+    "url": "https://www.axios.com/2023/12/01/money-needed-to-be-happy-wealth",
+    "urlToImage": null,
+    "publishedAt": "2023-12-01T12:33:47Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "Elizabeth Schulze",
+    "title": "Google begins process of deleting inactive Gmail accounts - ABC News",
+    "description": "Google announced the move in May to protect users from security threats.",
+    "url": "https://abcnews.go.com/Business/google-begins-process-deleting-inactive-gmail-accounts/story?id=105281283",
+    "urlToImage": "https://i.abcnewsfe.com/a/e7ac58fd-de89-4fe9-9b24-696283a9133f/google-gmail-gty-thg-231130_1701373644681_hpMain_16x9.jpg?w=992",
+    "publishedAt": "2023-12-01T12:33:45Z",
+    "content": "Old Gmail accounts could be deleted as soon as today, according to Google.\r\nGoogle will begin purging accounts that have not been used or signed into for at least two years. That means emails, Google… [+1080 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "Megan Carnegie and Leah Carroll",
+    "title": "Why Americans' 'YOLO' spending spree baffles economists - BBC.com",
+    "description": "Despite past trends, US consumers are spending at record levels. Economists are mystified – and grappling to forecast an end point.",
+    "url": "https://www.bbc.com/worklife/article/20231130-why-americans-yolo-spending-attitude-baffles-economists",
+    "urlToImage": "https://ychef.files.bbci.co.uk/624x351/p0gwwt7d.jpg",
+    "publishedAt": "2023-12-01T12:00:00Z",
+    "content": "By Megan Carnegie and Leah CarrollFeatures correspondent\r\nAmericans feel pessimistic about the economy yet they're spending in spades (Credit: Getty Images)\r\nDespite past trends, US consumers are spe… [+6767 chars]"
+    }
+    ]
+    }
